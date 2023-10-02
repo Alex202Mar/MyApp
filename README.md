@@ -1,3 +1,3 @@
 # MyApp
 
-i am making a app
+i am making an app
